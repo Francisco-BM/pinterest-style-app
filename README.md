@@ -3,4 +3,4 @@ Es una aplicación estilo Pinteres que permite subir imágenes, esta fue realiza
 
 Esta es la forma en la que terminaría viéndose la aplicación
 
-![](docs/pint-example.PNG)
+
